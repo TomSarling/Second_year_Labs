@@ -12,4 +12,4 @@ explanation
 
 4.  Is approximating the 2-body problem in 2d with Runge-kutta equation to the 4TH order of h, it allows you: to pick celestial bodies using classes to orbit, 
 pick an option to orbit the moon and return to earth setting  RK4(-6.8e6, 0, 0, -10720, ...) in moon_and_back() 
-and lets you see the orbit of the current iss . , It has room for improvement but is reasonably fine. 
+and lets you see the orbit of the current iss . , It has room for improvement and func pick your bodies isnt too useful, I would recommend figuring out some distances and velocities that do something interesting before using  
