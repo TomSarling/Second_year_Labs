@@ -219,8 +219,7 @@ def moon_and_back():
     print("Moon and Back")
     #body1mass = input("...")
     # by trial and error this is a moon fly by with near by earth return
-    x, y, vx, vy, e, t = RK4(192_200_000, 70_000_000, -1_250,
-                             0, 30, 100_000, EARTH, MOON)
+    x, y, vx, vy, e, t = RK4(-6.8e6, 0, 0, -10720, 30, 100_000, EARTH, MOON)
     #x, y, vx, vy = RK4(0, 8_000_000, 15000, 1500, 0.5, 150000, EARTH, MOON)
 
     body1 = plt.Circle(EARTH.position, EARTH.surface_radius)
