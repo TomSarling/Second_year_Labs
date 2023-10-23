@@ -4,6 +4,7 @@
 - all could be commented more, but i wanted a bit of a museum to look back on!
 
 explanation
+
 1 approximates arctan and pi using an approximation. It's very rough. 
 
 2 is a falling-to-earth menu with options to include air resistance (as a function of density ), it doesn’t include an option for orbit. 
