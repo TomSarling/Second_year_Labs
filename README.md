@@ -1,5 +1,5 @@
 # Second_year_Labs
- work done by me adapted , guided by a script 
+  adapted for github , course work for computational physics 201 
 - 4 is the most advanced, a consevation of energy graph with v_x,v_y  on would be nice 
 - all could be commented more, but i wanted a bit of a museum to look back on!
 
