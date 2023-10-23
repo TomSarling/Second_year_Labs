@@ -5,9 +5,9 @@
 
 explanation
 
-1 approximates arctan and pi using an approximation. It's very rough. 
+1. approximates arctan and pi using an approximation. It's very rough. 
 
-2 is a falling-to-earth menu with options to include air resistance (as a function of density ), it doesn’t include an option for orbit. 
+2. is a falling-to-earth menu with options to include air resistance (as a function of density ), it doesn’t include an option for orbit. 
 
 3. approximates Fresnel diffraction 
 
